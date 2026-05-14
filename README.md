@@ -234,7 +234,7 @@ You can find a demo video of the system [here](https://drive.google.com/file/d/1
 
 # Contributors
 1. Bishwambhar Dahal
-2. 4. Apsara Shrestha
+2. Apsara Shrestha
 3. Sirjana Bhatta
 4. Sujana Acharya
 5. Praches Acharya
