@@ -233,10 +233,10 @@ Feel free to explore and customize the codebase according to your requirements. 
 You can find a demo video of the system [here](https://drive.google.com/file/d/1Nx5U0XAAnP2LRwvy6ZQsLpdIsvvsCjZC/view?usp=drive_link).
 
 # Contributors
-1. Bishwambhar Dahal 
-2. Sirjana Bhatta
-3. Sujana Acharya
-4. Apsara Shrestha
+1. Bishwambhar Dahal
+2. 4. Apsara Shrestha
+3. Sirjana Bhatta
+4. Sujana Acharya
 5. Praches Acharya
 
 # Acknowledgments
